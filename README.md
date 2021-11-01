@@ -1,2 +1,4 @@
-# Pizza-shop-landing-page
- Responsive using Html5 / Css3
+# pizzero landing Page
+> Responsive design using
+- Html5 
+- Css3
